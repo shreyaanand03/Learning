@@ -1,0 +1,15 @@
+let a = "shreya"
+let b = 303
+let c = 2
+console.log(a+b+c)
+console.log(typeof (a+b+c))
+
+const a1 = {
+    name : "shreya",
+    gender : "female",
+    team : false
+
+
+}
+a1 = "anand"
+

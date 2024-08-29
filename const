@@ -1,0 +1,15 @@
+const a =20
+const b="shreya"
+const c=50
+console.log(c)
+
+{
+    const d=90
+    console.log(d)
+}
+
+ {
+    const e=100
+    console.log(e)
+ }
+ console.log(a)

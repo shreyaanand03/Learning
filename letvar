@@ -1,0 +1,6 @@
+var a=20
+var a="shreya"
+let b=30
+let c=40
+
+console.log(a)

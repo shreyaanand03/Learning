@@ -1,0 +1,19 @@
+let assignment=8;
+assignment +=5
+console.log(assignment)
+
+let a=9
+a -=8
+console.log(a)
+
+let b=10
+b *=90
+console.log(b)
+
+let c=10
+c /=90
+console.log(c)
+
+let d=8
+d /=5
+console.log(d)

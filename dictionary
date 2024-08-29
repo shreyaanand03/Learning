@@ -1,0 +1,10 @@
+const dictionary= {
+    a :"letter",
+    ant :"small insect",
+    an :"pronoun before vowels",
+    axe : "equipment to cut grass",
+    at : "to define where something is kept"
+
+}
+console.log(dictionary["ant"])
+console.log(dictionary["a"])

@@ -1,0 +1,10 @@
+let a= null
+let b= 9038
+let c= "Shreyayyaya"
+let d= Symbol("hey, I am symbol")
+let e= true
+let f= BigInt(8393898383933) + BigInt(7357353)
+let g= undefined
+let h
+console.log(a,b, c, d, e, f, g)
+console.log(typeof d, f, h) 

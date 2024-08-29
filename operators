@@ -1,0 +1,18 @@
+let a=20
+let b=3
+sum = a+b
+difference = a-b
+product = a*b
+remainder = a%b
+power = a**b
+increment = a++
+decrement = a--
+quotient = a/b
+console.log(sum)
+console.log(difference)
+console.log(product)
+console.log(remainder)
+console.log(power)
+console.log(increment)
+console.log(decrement)
+console.log(quotient)

@@ -1,0 +1,14 @@
+const item ={
+    "Cost of Bread":120,
+    "cost of butter":500,
+    "cost of jam":20,
+    "cost of milk":30,
+    "cost of fruits":9,
+    "cost of veggies":90
+}
+
+console.log(item["Cost of Bread"])
+
+
+
+
